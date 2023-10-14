@@ -1,4 +1,4 @@
-# **Under Belly Restaurant Website*
+# **Under Belly Restaurant Website**
 
 Welcome to the Under Belly Restaurant Website project repository !! 🍽️✨
 
