@@ -11,15 +11,22 @@ gastronomic delight.
 ## **Features**
 
 🌐 Responsive Design: Ensuring a seamless user experience across various devices, from desktops to mobile phones.
+
 🎨 Visual Feast: A visually stunning design that captures the essence of Under Belly's unique atmosphere and culinary creations.
+
 🍷 Menu Showcase: Explore our menu with high-quality images, detailed descriptions, and dietary information for each dish.
+
 📅 Reservation System: Streamlined reservation process with real-time availability and confirmation for a hassle-free booking experience.
+
 
 ## **Technologies Used**
 
 Frontend: HTML, CSS, JavaScript
+
 IDE: Visual Studio Code
+
 Deployment: GitHub
+
 
 ## **Clone this Repository**
 ' git clone https://github.com/paritxshh/Restaurant-Webiste-using-HTML-CSS-and-JS.git '
